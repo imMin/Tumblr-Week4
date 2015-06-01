@@ -1,4 +1,4 @@
-# Carousel Prototype
+# Tumblr Prototype
 
 
 Time spent: 15 hours spent in total
